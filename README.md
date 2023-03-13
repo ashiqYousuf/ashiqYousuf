@@ -8,7 +8,7 @@ I'm **Ashiq Yousuf**, a Fullstack Software Developer.
 -------
 
 [![Ashiq's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiq-hussain-kumar-8a41801ba)
-[![Ashiq's Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salikmubien@gmail.com?subject=Hey%20Saalik,%20you%20are%20awesome)
+[![Ashiq's Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiqhussainkumar143@gmail.com?subject=Hey%20Ashiq)
 
 
 GitHub Stats
