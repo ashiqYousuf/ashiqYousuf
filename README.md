@@ -38,8 +38,8 @@ GitHub Stats
 <!-- ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=4AB197) -->
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
-<!-- ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=4AB197) -->
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=rust&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
 <!-- ![](https://img.shields.io/badge/Code-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=4AB197) -->
@@ -60,7 +60,7 @@ GitHub Stats
 
 ![](https://img.shields.io/badge/Microservices-informational?style=flat&logoColor=white&color=4AB197)
 <!-- ![](https://img.shields.io/badge/Microfrontends-informational?style=flat&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/DistributedSystems-informational?style=flat&logoColor=white&color=4AB197) -->
+![](https://img.shields.io/badge/DistributedSystems-informational?style=flat&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/SystemDesign-informational?style=flat&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/DatabaseDesign-informational?style=flat&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/FullstackEngineering-informational?style=flat&logoColor=white&color=4AB197)
