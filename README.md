@@ -21,20 +21,21 @@ GitHub Stats
 
 ## 💼 Skills and Tech Stack I work with:
 
-<!-- ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197) -->
+
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-<!-- ![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=nestJS&logoColor=white&color=4AB197) -->
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
 ![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=electron&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=4AB197) -->
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,6 +50,7 @@ GitHub Stats
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,23 +59,10 @@ GitHub Stats
 ![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-<!-- ![](https://img.shields.io/badge/Code-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=amazon&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-TravisCI-informational?style=flat&logo=travisci&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=4AB197) -->
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)
-<!-- ![](https://img.shields.io/badge/Code-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=4AB197) -->
-![](https://img.shields.io/badge/Code-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=4AB197)
-
 
 ## Areas of Interest 
 
-![](https://img.shields.io/badge/Microservices-informational?style=flat&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Microservices-informational?style=for-the-badge&logoColor=white&color=4AB197)
 <!-- ![](https://img.shields.io/badge/Microfrontends-informational?style=flat&logoColor=white&color=4AB197) -->
 ![](https://img.shields.io/badge/DistributedSystems-informational?style=flat&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/SystemDesign-informational?style=flat&logoColor=white&color=4AB197)
