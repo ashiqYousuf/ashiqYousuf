@@ -21,10 +21,6 @@ GitHub Stats
 
 ## 💼 Skills and Tech Stack I work with:
 
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 <!-- ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197) -->
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
@@ -42,6 +38,11 @@ GitHub Stats
 ![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 <!-- ![](https://img.shields.io/badge/Code-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197) -->
