@@ -27,7 +27,6 @@ GitHub Stats
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=pink&color=4AB197)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=pink&color=4AB197)
 <!-- ![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=nestJS&logoColor=white&color=4AB197) -->
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=pink&color=4AB197)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=pink&color=4AB197)
 <!-- ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=electron&logoColor=white&color=4AB197) -->
@@ -38,6 +37,7 @@ GitHub Stats
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4DB197)
 ![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=postgresql&logoColor=pink&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
