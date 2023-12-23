@@ -34,7 +34,8 @@ GitHub Stats
 <!-- ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=4AB197) -->
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=rust&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=rust&logoColor=white&color=4CC197)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=rust&logoColor=white&color=4DB197)
 ![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
