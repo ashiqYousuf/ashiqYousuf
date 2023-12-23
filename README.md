@@ -33,6 +33,7 @@ GitHub Stats
 ![](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/daphne-092E20?style=for-the-badge&logo=django&logoColor=green)
 <!-- ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=electron&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=4AB197) -->
@@ -54,20 +55,21 @@ GitHub Stats
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
 
 ## Areas of Interest 
 
 ![](https://img.shields.io/badge/Microservices-informational?style=for-the-badge&logoColor=white&color=4AB197)
 <!-- ![](https://img.shields.io/badge/Microfrontends-informational?style=flat&logoColor=white&color=4AB197) -->
 ![](https://img.shields.io/badge/DistributedSystems-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/SystemDesign-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/DatabaseDesign-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/FullstackEngineering-informational?style=flat&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/SystemDesign-informational?style=for-the-badge&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DatabaseDesign-informational?style=for-the-badge&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/FullstackEngineering-informational?style=for-the-badge&logoColor=white&color=4AB197)
 <!-- ![](https://img.shields.io/badge/Web3/DecentrailizedApps-informational?style=flat&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Blockchain-informational?style=flat&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Serverless-informational?style=flat&logoColor=white&color=4AB197) -->
@@ -76,6 +78,14 @@ GitHub Stats
 ## Profile Views
 
 ![Profile views](https://gpvc.arturio.dev/ashiqYousuf)
+
+## Socials
+
+![](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)
 
 <!--
 **ashiqYousuf/ashiqYousuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
