@@ -34,9 +34,6 @@ GitHub Stats
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/daphne-092E20?style=for-the-badge&logo=django&logoColor=green)
-<!-- ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=electron&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=4AB197) -->
 
 
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -65,15 +62,11 @@ GitHub Stats
 ## Areas of Interest 
 
 ![](https://img.shields.io/badge/Microservices-informational?style=for-the-badge&logoColor=white&color=4AB197)
-<!-- ![](https://img.shields.io/badge/Microfrontends-informational?style=flat&logoColor=white&color=4AB197) -->
-![](https://img.shields.io/badge/DistributedSystems-informational?style=flat&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DistributedSystems-informational?style=for-the-badge&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/SystemDesign-informational?style=for-the-badge&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/DatabaseDesign-informational?style=for-the-badge&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/FullstackEngineering-informational?style=for-the-badge&logoColor=white&color=4AB197)
-<!-- ![](https://img.shields.io/badge/Web3/DecentrailizedApps-informational?style=flat&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Blockchain-informational?style=flat&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/Serverless-informational?style=flat&logoColor=white&color=4AB197) -->
-<!-- ![](https://img.shields.io/badge/CloudComputing-informational?style=flat&logoColor=white&color=4AB197) -->
+![](https://img.shields.io/badge/CloudComputing-informational?style=for-the-badge&logoColor=white&color=4AB197)
 
 ## Profile Views
 
