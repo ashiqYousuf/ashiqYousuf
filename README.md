@@ -68,9 +68,6 @@ GitHub Stats
 ![](https://img.shields.io/badge/FullstackEngineering-informational?style=for-the-badge&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/CloudComputing-informational?style=for-the-badge&logoColor=white&color=4AB197)
 
-## Profile Views
-
-![Profile views](https://gpvc.arturio.dev/ashiqYousuf)
 
 ## Socials
 
