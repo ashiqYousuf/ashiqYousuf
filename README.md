@@ -17,7 +17,7 @@ GitHub Stats
 
 [![Ashiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashiqYousuf&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/ashiqYousuf)
 
-[![Ashiq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqYousuf&layout=compact&langs_count=9&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/ashiqYousuf)
+[![Ashiq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqYousuf&layout=compact&langs_count=12&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/ashiqYousuf)
 
 ## 💼 Skills and Tech Stack I work with:
 
