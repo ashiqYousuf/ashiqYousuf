@@ -13,7 +13,7 @@ I'm **Ashiq Yousuf**, a Fullstack Software Developer.
 
 GitHub Stats
 ------------
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ashiqYousuf)](https://git.io/streak-stats)
 
 [![Ashiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashiqYousuf&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/ashiqYousuf)
 
