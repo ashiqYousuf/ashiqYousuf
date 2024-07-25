@@ -14,7 +14,7 @@ I'm **Ashiq Yousuf**, a Fullstack Software Developer.
 GitHub Stats
 ------------
 
-[![Ashiq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashiqYousuf&bg_color=008B8B&color=F5DEB3&line=24292e&point=24292e&area=true&theme=merko)](https://github.com/ashiqYousuf/github-readme-activity-graph)
+[![Ashiq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashiqYousuf&bg_color=2f4f4f&color=F5DEB3&line=AA336A&point=24292e&area=true&theme=react-dark)](https://github.com/ashiqYousuf/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ashiqYousuf&theme=gruvbox)](https://git.io/streak-stats)
 
