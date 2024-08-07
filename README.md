@@ -17,7 +17,6 @@ GitHub Stats
 
 [![Ashiq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashiqYousuf&bg_color=2f4f4f&color=F5DEB3&line=ff0065&point=00f800&area=true)](https://github.com/ashiqYousuf/github-readme-activity-graph)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashiqYousuf)](https://github.com/ashiqYousuf/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ashiqYousuf&theme=gruvbox)](https://git.io/streak-stats)
 
